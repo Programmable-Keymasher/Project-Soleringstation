@@ -1,0 +1,47 @@
+Removed Parameter Colour:Black from Part K5
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part K5
+Removed Parameter ComponentLink1URL:http://www.samtec.com/ from Part K5
+Removed Parameter ComponentLink2Description:Datasheet from Part K5
+Removed Parameter ComponentLink2URL:http://suddendocs.samtec.com/catalog_english/tsw_th.pdf from Part K5
+Removed Parameter Contact Finish:Gold from Part K5
+Removed Parameter DatasheetVersion:12/2015 from Part K5
+Removed Parameter Height:8.38 mm from Part K5
+Removed Parameter Lead Pitch:0.1 inch from Part K5
+Removed Parameter Manufacturer:Samtec from Part K5
+Removed Parameter Mounting Technology:Through Hole from Part K5
+Removed Parameter PackageDescription:Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 8.38 mm, Tail Length 2.54 mm from Part K5
+Removed Parameter PackageReference:TSW-102-07-S-S from Part K5
+Removed Parameter Pins:2 from Part K5
+Removed Parameter RoHSCompliant:true from Part K5
+Removed Parameter Rows:1 from Part K5
+Change Value of Parameter Length in Part K5 Old=5.08 mm New=5.08mm
+Change Value of Parameter Max Operating Temperature in Part K5 Old=125 degC New=125°C
+Change Value of Parameter Min Operating Temperature in Part K5 Old=-55 degC New=-55°C
+Added Parameter Color=Black to Part K5
+Added Parameter Connector Type=Header to Part K5
+Added Parameter Contact Finish - Mating=GOLD to Part K5
+Added Parameter Contact Mating Length=0.23inch to Part K5
+Added Parameter Contact Shape=Square to Part K5
+Added Parameter Contact Type=Male Pin to Part K5
+Added Parameter Depth=2.54mm to Part K5
+Added Parameter Fastening Type=Pull to Part K5
+Added Parameter Flammability Rating=UL94 V-0 to Part K5
+Added Parameter Gender=Male to Part K5
+Added Parameter Housing Color=Black to Part K5
+Added Parameter Housing Material=Polyester to Part K5
+Added Parameter Insulation Color=Black to Part K5
+Added Parameter Insulation Material=PBT to Part K5
+Added Parameter Lead Free=Lead Free to Part K5
+Added Parameter Max Current Rating=7.6A to Part K5
+Added Parameter Max Voltage Rating (AC)=550V to Part K5
+Added Parameter Number of Contacts=2 to Part K5
+Added Parameter Number of Positions=2 to Part K5
+Added Parameter Number of Rows=1 to Part K5
+Added Parameter Orientation=Straight to Part K5
+Added Parameter Pitch=2.54mm to Part K5
+Added Parameter Radiation Hardening=No to Part K5
+Added Parameter RoHS Compliant=Yes to Part K5
+Added Parameter Series=TSW to Part K5
+Added Parameter Termination=Solder to Part K5
+Added Parameter Width=2.54mm to Part K5
+Update Managed Component K5 From CMP-1681-00004-5[TSW-102-07-S-S] To CMP-1681-00004-5[TSW-102-07-S-S] in Main_Board.SchDoc

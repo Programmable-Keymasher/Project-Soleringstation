@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetC2_1 Pin=K6-4
+Added Pin To Net: NetName=NetC2_1 Pin=R21-1
+Added Pin To Net: NetName=NetC2_1 Pin=R22-1
+Added Room: Name=Display
+Added Room: Name=Main_Board
+Added Room: Name=Sturing_Temperatuur_Bout
+Added Room: Name=Voeding
